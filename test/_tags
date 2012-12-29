@@ -1,0 +1,2 @@
+<*.ml>: package(ostatfs)
+<*.native>: package(ostatfs)

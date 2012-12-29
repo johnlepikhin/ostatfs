@@ -1,0 +1,5 @@
+version = "1.0"
+description = "statfs binding"
+archive(byte) = "istatfs.cma"
+archive(native) = "ostatfs.cmxa"
+exists_if = "ostatfs.cmxa"
